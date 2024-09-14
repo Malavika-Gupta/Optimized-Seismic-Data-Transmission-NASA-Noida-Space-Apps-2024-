@@ -6,6 +6,7 @@ Current Implementation
 We've developed a prototype using Mars InSight data to demonstrate the concept. Here's what we've accomplished so far:
 
 Data Source: We're using Mars InSight seismic data in MiniSEED (.mseed) format, covering three days over different time periods.
+
 Data Processing:
 
 Implemented preprocessing techniques for the MiniSEED files.
